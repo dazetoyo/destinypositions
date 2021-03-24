@@ -2,6 +2,18 @@
 id: philosophy
 title: Philosophy
 ---
+import { FAQs, FAQ, Question, Answer} from '../src/components/FAQ'
+
+<FAQs>
+    <FAQ>
+        <Question>What does Destiny think about protecting our demographics?</Question>
+        <Answer>Destiny believes that this endeavor is futile because he rejects the notion that there is a consistent and coherent definition of American values</Answer>
+    </FAQ>
+    <FAQ>
+        <Question>What does Destiny think about the protesting and rioting?</Question>
+        <Answer>Destiny ardently believes in people's right to protest and will always support the right to protest, even if he doesn't necessarily agree with the positions being advocated for by any particular protest.</Answer>
+    </FAQ>
+</FAQs>
 
 ## Why Philosophy is Important
 
